@@ -1,5 +1,5 @@
 # LabelMap-to-BoundingBox
-This project converts label maps in medical imaging to bounding boxes, visualizes them on axial CT slices, and overlays segmentation masks for context. It helps analyze segmentation outputs and ensures efficient debugging in medical image processing workflows.
+This project extracts bounding boxes from segmentation maps (masks) in medical imaging datasets. If your dataset includes segmentation maps but lacks bounding boxes, this repository provides a solution to extract bounding boxes from the segmentation masks. It helps visualize these bounding boxes on axial CT slices and overlays the segmentation masks for context, aiding in efficient analysis and debugging of segmentation outputs in medical image processing workflows.
 
 # LabelMap-to-BBox
 
