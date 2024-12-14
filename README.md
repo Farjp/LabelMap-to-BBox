@@ -10,7 +10,9 @@ This repository provides a tool to convert medical image label maps into boundin
 - Extracts bounding box dimensions (in voxel and physical units) from a given label map.
 - Overlays the bounding box on an axial slice of the corresponding CT image.
 - Visualizes the segmentation mask on the same slice for better interpretability.
+![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-CT.png)
 
+![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-seg.png)
 ## Requirements
 - Python 3.x
 - Required Python packages:
@@ -24,9 +26,7 @@ pip install SimpleITK numpy matplotlib
 
 
 
-![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-CT.png)
 
-![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-seg.png)
 
 
 
