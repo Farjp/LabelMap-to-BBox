@@ -23,10 +23,3 @@ This repository provides a tool to convert medical image label maps into boundin
 Install the dependencies using:
 ```bash
 pip install SimpleITK numpy matplotlib
-
-
-
-
-
-
-
