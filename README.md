@@ -22,3 +22,8 @@ Install the dependencies using:
 ```bash
 pip install SimpleITK numpy matplotlib
 
+
+
+
+
+
