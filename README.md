@@ -24,9 +24,9 @@ pip install SimpleITK numpy matplotlib
 
 
 
-![Image Alt Text](Bbox-on-CT.png)
+![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-CT.png)
 
-![Image Alt Text](Bbox-on-seg.png)
+![Image Alt Text](https://github.com/Farjp/LabelMap-to-BBox/blob/main/Bbox-on-seg.png)
 
 
 
